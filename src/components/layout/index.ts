@@ -1,0 +1,2 @@
+export { Layout as CustomerLayout } from './customer';
+export { Layout as OtherLayout } from './other';
